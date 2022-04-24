@@ -115,7 +115,7 @@ card:not(:last-child) {
 
 /*Setup Card number 1*/
 .card__one {
-    background: url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/62105/3dr_monobg.jpg') center / cover no-repeat;
+    background-image: url("../img/Konoha.png");
     margin-left: 20px;
 }
 
@@ -141,9 +141,9 @@ card:not(:last-child) {
 */
 /*Setup Card number 3*/
 .card__three {
-    background-image: url("../img/kymetsu.jpg");
+    background: url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/62105/3dr_howlbg.jpg') center / cover no-repeat;
     margin-left: 10px;
-    
+    margin-left: 10px;
 }
 
 /*.card__text {

@@ -141,9 +141,9 @@ card:not(:last-child) {
 */
 /*Setup Card number 3*/
 .card__three {
-    background-image: url("../img/kymetsu.jpg");
+    background-image: url("../img/");
     margin-left: 10px;
-    
+    margin-left: 10px;
 }
 
 /*.card__text {
