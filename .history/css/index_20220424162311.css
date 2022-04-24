@@ -226,7 +226,7 @@ card:not(:last-child) {
     cursor: pointer;
     position: absolute;
     right: -10px;
-    top: 85px;
+    top: 50px;
     z-index: -1;
     background: #129a71;
     border-radius: 20px;

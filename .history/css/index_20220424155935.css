@@ -196,7 +196,7 @@ card:not(:last-child) {
     cursor: pointer;
     position: absolute;
     right: -10px;
-    top: 50px;
+    top: 12px;
     z-index: -1;
     background: #00aced;
     border-radius: 20px;
@@ -213,40 +213,10 @@ card:not(:last-child) {
     opacity: 0.4;
 }
 
-.facebook__Link:hover {
+.twitter__link:hover {
     opacity: 1;
 }
 
-.facebook__icon {
+.twitter__icon {
     height: 30px;
-} 
-/*whastapp icon*/
-
-.whatsapp__Link {
-    cursor: pointer;
-    position: absolute;
-    right: -10px;
-    top: 85px;
-    z-index: -1;
-    background: #129a71;
-    border-radius: 20px;
-    height: 30px;
-    text-decoration: none;
-    padding-right: 10px;
-    justify-content: space-between;
-    font-weight: 600;
-    display: flex;
-    align-items: center;
-    color: #fff;
-    font-size: 14px;
-    width: 74px;
-    opacity: 0.4;
 }
-
-.whatsapp__Link:hover {
-    opacity: 1;
-}
-
-.whatsapp__icon {
-    height: 30px;
-} 
